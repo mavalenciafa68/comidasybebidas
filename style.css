@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: rgb(194, 135, 233);
+}
+  #mititulo{
+      color: rgb(211, 35, 137);
+    font-size: 40px;
+
+  }
+
+  .img{
+    width: 400px;
+    height: 350px;
+    display: block;
+  }
+  
+  
