@@ -1,17 +1,25 @@
 body{
     background-color: aqua;
-    color: rgb(194, 135, 233);
-}
+    color: rgb(98, 31, 143);
+    
+  }
+ 
   #mititulo{
       color: rgb(211, 35, 137);
-    font-size: 40px;
+      font-size: 40px;
 
   }
 
   .img{
-    width: 400px;
-    height: 350px;
-    display: block;
+    width: 350px;
+    height: 200px;
+    display: inherit;
   }
   
+  a:hover{
+    color: rgb(78, 201, 41);
+    font-size: 20px;
+    font-style: italic
+  
+  }
   
