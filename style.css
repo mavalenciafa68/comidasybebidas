@@ -1,25 +1,58 @@
+*{
+  margin: auto
+}
+
+p{
+  border: 10px solid black;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+h1{
+  background-color: rgba(168, 230, 23, 0.959);
+  text-align: center
+  padding: 20px;
+  margin: 20px;
+  font-size: 30px;
+
+}
+
+
 body{
     background-color: aqua;
-    color: rgb(98, 31, 143);
-    
-  }
- 
+    color: rgb(171, 77, 233);
+    text-align: center                                          
+  
+}
+
+
   #mititulo{
       color: rgb(211, 35, 137);
       font-size: 40px;
-
+      border: 20px solid black;
+      padding: 20px;
+      margin: 20px;
+    
   }
 
   .img{
     width: 350px;
     height: 200px;
     display: inherit;
+    margin-top: 20px;
   }
   
   a:hover{
     color: rgb(78, 201, 41);
     font-size: 20px;
-    font-style: italic
-  
+    font-style: italic;
+    padding: 20px;
+
   }
-  
+
+
+.hiper{
+  margin-left: 20px;
+  margin-right: 20px;
+}
